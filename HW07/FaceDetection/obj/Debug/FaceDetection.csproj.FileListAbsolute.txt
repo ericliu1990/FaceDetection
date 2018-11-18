@@ -1,0 +1,9 @@
+E:\Face-Detection-master\HW07\FaceDetection\bin\Debug\CameraCapture.exe.config
+E:\Face-Detection-master\HW07\FaceDetection\bin\Debug\CameraCapture.exe
+E:\Face-Detection-master\HW07\FaceDetection\bin\Debug\CameraCapture.pdb
+E:\Face-Detection-master\HW07\FaceDetection\obj\Debug\FaceDetection.csprojResolveAssemblyReference.cache
+E:\Face-Detection-master\HW07\FaceDetection\obj\Debug\CameraCapture.FaceDetection.resources
+E:\Face-Detection-master\HW07\FaceDetection\obj\Debug\CameraCapture.Properties.Resources.resources
+E:\Face-Detection-master\HW07\FaceDetection\obj\Debug\FaceDetection.csproj.GenerateResource.Cache
+E:\Face-Detection-master\HW07\FaceDetection\obj\Debug\CameraCapture.exe
+E:\Face-Detection-master\HW07\FaceDetection\obj\Debug\CameraCapture.pdb
